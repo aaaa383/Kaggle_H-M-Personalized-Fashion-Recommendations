@@ -9,13 +9,19 @@ training data期間の直後の7日間に各顧客が購入するものを予測
 
 ## 評価指標
 Mean Average Precision @ 12 (MAP@12)  
-今回のコンペにおいては対象ユーザーに対する12位までの予測に対するAPの平均値を指す  
+今回のコンペにおいては対象ユーザーに対する12位までの予測に対するAPの平均値を指す。    
 <img width="500" alt="MAP" src="https://user-images.githubusercontent.com/58076642/160090369-712c9c43-cced-4bee-8a75-cfc2a4b13cff.png">  
 
 ※AP(Average Precision):その順位までにおける正解率を、各正解のデータの部分に限定して平均をとったもの
 
 評価指標の解釈notebook by渡部くん  
 https://www.kaggle.com/code/ano12pmo/map-12  
+
+メモ  
+・customer_idこれらの顧客がトレーニングデータで購入したかどうかに関係なく、提供されたすべての値の購入予測を行う。  
+・テスト期間中に購入しなかった顧客は、スコアリングから除外される。  
+・注文したアイテムが12未満の顧客に対して、12の予測全体を使用してもペナルティはない。したがって、顧客ごとに12の予測を行うことが有利。  
+
 
 ## Overview  
 H&M Group is a family of brands and businesses with 53 online markets and approximately 4,850 stores. Our online store offers shoppers an extensive selection of products to browse through. But with too many choices, customers might not quickly find what interests them or what they are looking for, and ultimately, they might not make a purchase. To enhance the shopping experience, product recommendations are key. More importantly, helping customers make the right choices also has a positive implications for sustainability, as it reduces returns, and thereby minimizes emissions from transportation.
