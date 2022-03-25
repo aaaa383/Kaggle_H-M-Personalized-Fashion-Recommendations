@@ -14,7 +14,7 @@ Mean Average Precision @ 12 (MAP@12)
 
 ※AP(Average Precision):その順位までにおける正解率を、各正解のデータの部分に限定して平均をとったもの
 
-評価指標の解釈に対するnotebook by渡部くん  
+評価指標の解釈notebook by渡部くん  
 https://www.kaggle.com/code/ano12pmo/map-12  
 
 
