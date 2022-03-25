@@ -25,12 +25,9 @@ In this competition, H&M Group invites you to develop product recommendations ba
 There are no preconceptions on what information that may be useful – that is for you to find out. If you want to investigate a categorical data type algorithm, or dive into NLP and image processing deep learning, that is up to you.
 
 (deepl)  
-
 H&Mグループは、53のオンラインマーケットと約4,850の店舗を持つ、ブランドとビジネスのファミリーです。オンラインストアでは、買い物客に豊富な品揃えの中から好きなものを選んでもらうことができます。しかし、選択肢が多すぎると、お客様は興味のあるものや探しているものをすぐに見つけることができず、最終的に購入に至らないこともあります。ショッピング体験を向上させるためには、商品のレコメンデーションが重要な鍵となります。さらに重要なことは、お客様の正しい選択を支援することは、返品を減らし、それによって輸送に伴う排出を最小限に抑えるという、サステナビリティにも良い影響を与えるということです。
 
 このコンペティションでは、H&Mグループが、過去の取引データ、および顧客と商品のメタデータに基づく商品推奨を開発するよう、皆様にお願いしています。メタデータは、衣服の種類やお客様の年齢などの単純なデータから、商品説明のテキストデータ、衣服画像の画像データまで幅広く用意されています。
 
 どのような情報が有用であるかという先入観はなく、それはお客様自身が調べることです。カテゴリーデータ型のアルゴリズムを調べたり、NLPや画像処理のディープラーニングに飛び込んでみたり、それはあなた次第です。
-
-www.DeepL.com/Translator（無料版）で翻訳しました。
 
