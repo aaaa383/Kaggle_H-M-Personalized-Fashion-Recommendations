@@ -9,7 +9,7 @@ training data期間の直後の7日間に各顧客が購入するものを予測
 
 ## 評価指標
 Mean Average Precision @ 12 (MAP@12)  
-今回のコンペにおいては対象ユーザーに対する12位までの予測に対するAPの平均値を指す
+今回のコンペにおいては対象ユーザーに対する12位までの予測に対するAPの平均値を指す  
 <img width="500" alt="MAP" src="https://user-images.githubusercontent.com/58076642/160090369-712c9c43-cced-4bee-8a75-cfc2a4b13cff.png">  
 
 ※AP(Average Precision):その順位までにおける正解率を、各正解のデータの部分に限定して平均をとったもの
