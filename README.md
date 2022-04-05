@@ -37,6 +37,8 @@ H&Mグループは、53のオンラインマーケットと約4,850の店舗を�
 
 どのような情報が有用であるかという先入観はなく、それはお客様自身が調べることです。カテゴリーデータ型のアルゴリズムを調べたり、NLPや画像処理のディープラーニングに飛び込んでみたり、それはあなた次第です。
 
+
+
 ## 山田  
 
 ## 宮尾  
@@ -65,6 +67,5 @@ https://www.kaggle.com/code/cdeotte/recommend-items-purchased-together-0-021/not
 性別と年齢でグルーピングをする  
 https://www.kaggle.com/code/junjitakeshima/h-m-easy-grouping-by-sex-attribute-age-en-jp  
 
-論文
+参考論文  
 https://arxiv.org/pdf/2202.02757.pdf
-
