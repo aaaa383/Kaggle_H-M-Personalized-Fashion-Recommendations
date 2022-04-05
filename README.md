@@ -49,8 +49,17 @@ H&Mグループは、53のオンラインマーケットと約4,850の店舗を�
 
 ## 傍示  
 
-2022年4月6日  
+### 2022年4月6日  
+
+参考になるnotebook  
 
 MAPの説明notebook  
-https://www.kaggle.com/code/debarshichanda/understanding-mean-average-precision
+https://www.kaggle.com/code/debarshichanda/understanding-mean-average-precision  
+
+よく購入される商品をオススメする
+https://www.kaggle.com/code/cdeotte/recommend-items-purchased-together-0-021/notebook  
+・このnotebook公開時点でのベストスコアは直近に購入された商品をお客様におすすめするもので、公開LBは0.020となっている  
+・お客様の前回の購入品とよく一緒に購入される商品をおすすめすることを追加して公開LBは0.021まで改善してている  
+→このnotebookでは過去1週間で行っているが、過去2週間の方が良いかもとの示唆有り  
+
 
