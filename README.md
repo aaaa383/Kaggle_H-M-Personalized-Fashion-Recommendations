@@ -62,4 +62,7 @@ https://www.kaggle.com/code/cdeotte/recommend-items-purchased-together-0-021/not
 ・お客様の前回の購入品とよく一緒に購入される商品をおすすめすることを追加して公開LBは0.021まで改善してている  
 →このnotebookでは過去1週間で行っているが、過去2週間の方が良いかもとの示唆有り  
 
+性別と年齢でグルーピングをする  
+https://www.kaggle.com/code/junjitakeshima/h-m-easy-grouping-by-sex-attribute-age-en-jp
+
 
