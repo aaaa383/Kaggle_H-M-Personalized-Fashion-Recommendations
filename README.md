@@ -49,3 +49,8 @@ H&Mグループは、53のオンラインマーケットと約4,850の店舗を�
 
 ## 傍示  
 
+2022年4月6日  
+
+MAPの説明notebook  
+https://www.kaggle.com/code/debarshichanda/understanding-mean-average-precision
+
