@@ -67,6 +67,9 @@ https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetq
 ### 作成したデータセット
 ①10歳幅の年齢フラグ付きのtrain + article データ：https://www.kaggle.com/datasets/kentawatanabetotosya/train-article?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitte
 
+### 実装notebok
+https://www.kaggle.com/code/cdeotte/recommend-items-purchased-together-0-021/notebook
+
 ## 傍示  
 
 ### 2022年4月6日  
