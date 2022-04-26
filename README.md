@@ -65,6 +65,9 @@ https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetq
 9月によく売れている商品TOP12  
 9月によく売れている商品（年齢別）  
 
+### 実装notebok
+https://www.kaggle.com/code/cdeotte/recommend-items-purchased-together-0-021/notebook
+
 ## 傍示  
 
 ### 2022年4月6日  
