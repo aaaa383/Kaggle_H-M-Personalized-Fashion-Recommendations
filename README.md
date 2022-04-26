@@ -37,10 +37,6 @@ H&Mグループは、53のオンラインマーケットと約4,850の店舗を�
 
 どのような情報が有用であるかという先入観はなく、それはお客様自身が調べることです。カテゴリーデータ型のアルゴリズムを調べたり、NLPや画像処理のディープラーニングに飛び込んでみたり、それはあなた次第です。
 
-## やりたいことリスト（スプレットシート）  
-タスクリストやアイデアはこちらのスプレッドシートに共有お願い致します  
-
-https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetqS94/edit#gid=0
 
 
 ## 山田  
@@ -56,6 +52,9 @@ https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetq
 
 ## 渡部  
 
+### やりたいことリスト（スプレットシート）
+https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetqS94/edit#gid=0
+
 ### やったこと2022/04/06
 ランダムにアイテムを12個  
 人気ランキングアイテムTOP12  
@@ -63,7 +62,10 @@ https://docs.google.com/spreadsheets/d/1kfqcf8eUK10iKMl4djJVi0fpur1BnFacd5x8hetq
 年代別の人気アイテムランキングTOP12（10代幅）  
 同じジャンルの商品をオススメする  
 9月によく売れている商品TOP12  
-9月によく売れている商品（年齢別）  
+9月によく売れている商品（年齢別）
+
+### 作成したデータセット
+①10歳幅の年齢フラグ付きのtrain + article データ：https://www.kaggle.com/datasets/kentawatanabetotosya/train-article?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitte
 
 ## 傍示  
 
